@@ -9,7 +9,7 @@
 - Added bar chart breaking down incidents by root cause
 - Implemented filters/slicers for interactive exploration
 - Designed multi-page layout for different audiences
-- 
+
 **Dashboard Structure:**
 - Multi-page layout (Safety Overview + Primary Safety Risks)
 - Cross-page filtering using slicers (Year, Country, Root Cause)
